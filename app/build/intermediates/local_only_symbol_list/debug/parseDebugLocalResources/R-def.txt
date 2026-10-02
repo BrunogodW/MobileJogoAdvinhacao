@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+id btnChutar
+id btnJogar
+id btnJogarNovo
+id etNome
+id etPalpite
+id rb10
+id rb100
+id rb50
+id rgLimite
+id tvBoasVindas
+id tvDica
+id tvTentativas
+layout activity_jogo
+layout activity_main
+style Theme.JogoAdivinhacao

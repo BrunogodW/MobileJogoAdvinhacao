@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.jogoadivinhacao.app-debug-31:/layout_activity_jogo.xml.flat",
+        "source": "com.example.jogoadivinhacao.app-main-33:/layout/activity_jogo.xml"
+    },
+    {
+        "merged": "com.example.jogoadivinhacao.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.jogoadivinhacao.app-main-33:/layout/activity_main.xml"
+    }
+]
